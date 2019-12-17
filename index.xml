@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archit Kapoor</title>
     <link>https://architkpr.github.io/</link>
     <description>Recent content on Archit Kapoor</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Mon, 15 Oct 2018 19:37:23 +1100</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Dec 2019 21:41:44 -0500</lastBuildDate>
     
 	<atom:link href="https://architkpr.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,10 @@
     <item>
       <title>About</title>
       <link>https://architkpr.github.io/about/</link>
-      <pubDate>Mon, 15 Oct 2018 19:37:23 +1100</pubDate>
+      <pubDate>Mon, 16 Dec 2019 21:41:44 -0500</pubDate>
       
       <guid>https://architkpr.github.io/about/</guid>
-      <description>I am a final year engineering student at Birla Institute of Technology and Science, Pilani (BITS-Pilani) located in the beautiful state of Goa in India. I will graduate in May 2019 with a B.E. (Hons.) in Electronics and Instrumentation Engineering. I am currently in my final semester and after graduating I hope to pursue a M.S. in Computer Engineering.
-In my penultimate semester, I completed my undergraduate thesis at the University of New South Wales, Sydney, under the supervision of Prof.</description>
+      <description></description>
     </item>
     
   </channel>
