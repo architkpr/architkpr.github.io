@@ -1,0 +1,9 @@
+[submodule "personal_website/-f"]
+	path = personal_website/-f
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "personal_website/themes/hugo-coder"]
+	path = personal_website/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "personal_website/themes/introduction"]
+	path = personal_website/themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
