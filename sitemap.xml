@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://architkpr.github.io/projects/iot-privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://architkpr.github.io/projects/intrusion-detection/</loc>
+  </url>
+  
+  <url>
+    <loc>https://architkpr.github.io/projects/adaptive-streaming/</loc>
+  </url>
+  
+  <url>
+    <loc>https://architkpr.github.io/projects/drone-delivery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://architkpr.github.io/projects/</loc>
+  </url>
+  
+  <url>
     <loc>https://architkpr.github.io/blog/</loc>
   </url>
   

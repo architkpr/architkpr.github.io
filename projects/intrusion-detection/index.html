@@ -10,22 +10,20 @@
 <meta name="referrer" content="no-referrer">
 
 <title>
-Blog - Archit Kapoor
+Intrusion Detection - Archit Kapoor
 </title>
 
-<link href="/blog/index.xml" rel="alternate" type="application/rss+xml" title="Archit Kapoor" />
 
-        <meta property="og:title" content="Blog - Archit Kapoor" />
+
+        <meta property="og:title" content="Intrusion Detection - Archit Kapoor" />
 <meta property="og:type" content="website" />
 <meta property="og:description" content=""/>
-<meta property="og:url" content="https://architkpr.github.io/blog/"/>
+<meta property="og:url" content="https://architkpr.github.io/projects/intrusion-detection/"/>
 <meta property="og:site_name" content="Archit Kapoor"/>
 
 
 
-
-<meta property="og:image" content="https://architkpr.github.io/home/profile_picture.jpg"/>
-
+<meta property="og:image" content="https://architkpr.github.io/projects/intrusion-detection/laptop.jpg"/>
 
 
 
@@ -48,14 +46,19 @@ Blog - Archit Kapoor
         
         
         
-        
+
+
+
+<link rel="stylesheet" href="https://architkpr.github.io/styles/owlCarousel.min.b1f26e29c43c61fe8b5a6f225b4ee7c5f969a7b33cfe512706271e07246d93d1.css" integrity="sha256-sfJuKcQ8Yf6LWm8iW07nxflpp7M8/lEnBiceByRtk9E=" crossorigin="anonymous" media="screen">
+
+
     </head>
     <body>
         <section id="top" class="section">
             
             <div class="container hero  fade-in one ">
                 
-                <h1 class="bold-title is-1">Blog</h1>
+                <h1 class="bold-title is-1">Intrusion Detection</h1>
                 
             </div>
             
@@ -118,6 +121,12 @@ Blog - Archit Kapoor
                 
                 
                 
+                  <a class="navbar-item" href="https://architkpr.github.io/blog/">
+                  
+                  Blog
+                  
+                  </a>
+                
                 
             
             
@@ -141,20 +150,28 @@ Blog - Archit Kapoor
 
                 
     <div class="container markdown top-pad">
-        <p>Welcome to my blog. As I learn more and more about cybersecurity and technology, I aim to note my thoughts here in an attempt to make the average person more security-aware.</p>
-<p>Coming soon!</p>
+        
+        <div class="has-text-centered">
+            
+            
+                
+                    
+                    
+                        <img src="/projects/intrusion-detection/laptop_hu6e752d39692502e63dc72c61099aecf0_3964793_1000x0_resize_q75_box.jpg" class="img-responsive" alt="laptop.jpg">
+                    
+                
+            
+        </div>
+        
+        <p>Intrusion Detection using Active Authentication</p>
+<p>During my spring semester at Columbia University, I took up the Intrusion Detection Systems (IDS) course. One of the interesting projects I worked on was implementing an IDS using active authentication. This project worked on a simple idea that different people have different ways of using their computer, and that this difference in usage behavior can help us validate the identity of the user.</p>
+<p>Maybe you have several tabs open simultaneously when working on your laptop. Maybe you use 3 different browsers, while constantly running Spotify in the background, and working on Word/Excel documents. Maybe you only use your laptop in the afternoon, or use it late at night to watch your favorite movies. For an intruder to work on your system without getting reported, they would have to replicate this behaviour which is challenging unless they have observed your laptop usage behavior over a long period of time.</p>
+<p>The project involved gathering network and application usage data for over 4 days using audit tools available on the system. Relevant features were then extracted from the data and used to train a Machine Learning model, testing it over a few hours of use by an intruder. Due to time constraints, the testing and training phases were of short durations. However, the model detected an intruder with about 85% true and 20% false positive ratings.</p>
 
     </div>
-    <div class="container">
-        
-        <h2 class="title is-2 top-pad">Latest Post</h2>
-        
+    
+    
 
-        
-        <h2 class="title is-2 top-pad">All Posts</h2>
-        
-
-    </div>
 
 
                 
@@ -198,6 +215,11 @@ Blog - Archit Kapoor
         
         
         
-        
+
+
+
+<script src="https://architkpr.github.io/js/bundleOwlCarousel.afccb665ffddf92101a8bc04b924a4a5b9a36c0ad0ad61024da751cdd8fd1ed9.js" integrity="sha256-r8y2Zf/d&#43;SEBqLwEuSSkpbmjbArQrWECTadRzdj9Htk="></script>
+
+
     </body>
 </html>
