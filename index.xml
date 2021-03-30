@@ -10,48 +10,5 @@
 	<atom:link href="https://architkpr.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>IoT Privacy</title>
-      <link>https://architkpr.github.io/projects/iot-privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://architkpr.github.io/projects/iot-privacy/</guid>
-      <description>Consumer Reports IoT Privacy Challenge
-I am currently working with a team at Columbia University on analysing the security and privacy of IoT devices, as part of the NYC Media Lab and Consumer Reports Fall 2020 Open Challenge. You can learn more about it here.</description>
-    </item>
-    
-    <item>
-      <title>Intrusion Detection</title>
-      <link>https://architkpr.github.io/projects/intrusion-detection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://architkpr.github.io/projects/intrusion-detection/</guid>
-      <description>Intrusion Detection using Active Authentication
-During my spring semester at Columbia University, I took up the Intrusion Detection Systems (IDS) course. One of the interesting projects I worked on was implementing an IDS using active authentication. This project worked on a simple idea that different people have different ways of using their computer, and that this difference in usage behavior can help us validate the identity of the user.
-Maybe you have several tabs open simultaneously when working on your laptop.</description>
-    </item>
-    
-    <item>
-      <title>Adaptive Streaming</title>
-      <link>https://architkpr.github.io/projects/adaptive-streaming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://architkpr.github.io/projects/adaptive-streaming/</guid>
-      <description>Adaptive Bitrate Streaming of Video Content
-During fall of 2019 I took up the Computer Networks course at Columbia University. An exciting project I worked on was studying how services like Netflix provide video content to its users, by implementing a HTTP proxy server that performs adaptive bitrate streaming of video content.
-Gone are the days when video streaming would require you to pause the video and wait for it to buffer, before resuming your stream.</description>
-    </item>
-    
-    <item>
-      <title>Drone Delivery</title>
-      <link>https://architkpr.github.io/projects/drone-delivery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://architkpr.github.io/projects/drone-delivery/</guid>
-      <description>Secure Package Collection for Drone Delivery
-During fall of 2019, I enrolled in the Internet of Things course at Columbia University. Towards the latter half of the semester, our team of 3 students decided to develop an IoT system that can be used to securely accept packages delivered using drones and inform the user.
-Two challenging problems inspired the development of this project. The first was that of secure landing and delivery of packages when sent by a drone.</description>
-    </item>
-    
   </channel>
 </rss>
